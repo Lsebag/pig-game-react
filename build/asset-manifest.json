@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.c8777889.css",
-    "main.js": "/static/js/main.b76cf3cd.js",
-    "static/js/787.d6d5710f.chunk.js": "/static/js/787.d6d5710f.chunk.js",
-    "index.html": "/index.html",
-    "main.c8777889.css.map": "/static/css/main.c8777889.css.map",
-    "main.b76cf3cd.js.map": "/static/js/main.b76cf3cd.js.map",
-    "787.d6d5710f.chunk.js.map": "/static/js/787.d6d5710f.chunk.js.map"
+    "main.css": "/sebajs/pig-game-react/static/css/main.c8777889.css",
+    "main.js": "/sebajs/pig-game-react/static/js/main.a3fc6db3.js",
+    "static/js/787.d6d5710f.chunk.js": "/sebajs/pig-game-react/static/js/787.d6d5710f.chunk.js",
+    "index.html": "/sebajs/pig-game-react/index.html",
+    "main.c8777889.css.map": "/sebajs/pig-game-react/static/css/main.c8777889.css.map",
+    "main.a3fc6db3.js.map": "/sebajs/pig-game-react/static/js/main.a3fc6db3.js.map",
+    "787.d6d5710f.chunk.js.map": "/sebajs/pig-game-react/static/js/787.d6d5710f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c8777889.css",
-    "static/js/main.b76cf3cd.js"
+    "static/js/main.a3fc6db3.js"
   ]
 }
